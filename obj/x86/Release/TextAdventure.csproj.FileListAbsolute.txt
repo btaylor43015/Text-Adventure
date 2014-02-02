@@ -1,0 +1,11 @@
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\bin\Release\TextAdventure.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\bin\Release\TextAdventure.pdb
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\TextAdventure.Form1.resources
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\TextAdventure.Forms.frmContainers.resources
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\TextAdventure.frmNewScene.resources
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\TextAdventure.Properties.Resources.resources
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\TextAdventure.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Release\TextAdventure.pdb

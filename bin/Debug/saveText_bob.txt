@@ -1,0 +1,24 @@
+Dsc/You are in the bedroom of your home. The room contains a bed on the north wall bookended by two large windows. There is a night stand beside the bed with an alarm clock and a lamp. To the west of the bed is a small dresser. In the southwest corner are two chairs and a table with a tv. There are doors, one to the East and one to the South. 
+Title/bedroom
+MaxCount/1
+Cont/dresser:This is your dresser. There are 4 drawers...I wonder what's in them?:key:lockpick:$20:
+Cont/nightstand:This is a nightstand. There is a clock and a lamp sitting on top.:
+Cont/bed:This is your bed...it's used for sleeping. You might try sleeping at night to pass the time until morning.:
+Cont/clock:It's a clock.:
+Cont/lamp:It's a lamp:
+Dir/EAST
+Dsc/You are in the bedroom's connecting bathroom.
+Title/bathroom
+MaxCount/1
+Dir/SOUTH
+Dsc/You are in a closet.
+Title/closet
+MaxCount/1
+Dir/BACK
+Dir/BACK
+Dir/SOUTH
+Dsc/You are in a hallway.
+Title/hallway
+MaxCount/1
+Dir/BACK
+Dir/BACK
