@@ -31,13 +31,13 @@ namespace TextAdventure.Forms
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            _scene.Containers[cboContainers.Text].CItems.Clear();
+            _scene.Containers[cboContainers.Text.ToLower()].CItems.Clear();
 
             foreach (string item in lstItemsInContainer.Items)
             {
 
 
-                _scene.Containers[cboContainers.Text].CItems.Add(item, new ContainerItem(item, txtItemDescription.Text));
+                _scene.Containers[cboContainers.Text.ToLower()].CItems.Add(item, new ContainerItem(item, txtItemDescription.Text));
 
 
             }
@@ -95,8 +95,14 @@ namespace TextAdventure.Forms
 
         private void lstItemsInContainer_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string sitem = lstItemsInContainer.SelectedItems[0].ToString();
-            txtItemDescription.Text = _scene.Containers[cboContainers.Text].CItems[sitem].Description;
+            try
+            {
+                string sitem = lstItemsInContainer.SelectedItems[0].ToString();
+                txtItemDescription.Text = _scene.Containers[cboContainers.Text].CItems[sitem].Description;
+            }
+            catch
+            { }
+
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)

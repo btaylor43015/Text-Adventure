@@ -9,3 +9,13 @@ C:\Users\Robert\documents\visual studio 2010\Projects\TextAdventure\TextAdventur
 C:\Users\Robert\documents\visual studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.pdb
 C:\Users\Robert\documents\visual studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.frmNewScene.resources
 C:\Users\Robert\Documents\Visual Studio 2010\Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.Forms.frmContainers.resources
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.exe
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.pdb
+C:\Users\Robert\Documents\GitHub\Text-Adventure\bin\Debug\TextAdventure.exe
+C:\Users\Robert\Documents\GitHub\Text-Adventure\bin\Debug\TextAdventure.pdb
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.Form1.resources
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.Forms.frmContainers.resources
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.frmNewScene.resources
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.Properties.Resources.resources
+C:\Users\Robert\Documents\GitHub\Text-Adventure\obj\x86\Debug\TextAdventure.csproj.GenerateResource.Cache

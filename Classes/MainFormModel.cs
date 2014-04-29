@@ -295,13 +295,15 @@ namespace TextAdventure.Classes
             SaveFileDialog dlg = new SaveFileDialog();
             dlg.FileName = _filename;
             dlg.ShowDialog();
-            sw = File.CreateText(dlg.FileName);
-            _filename = dlg.FileName;
-
-            serializeScene(openingScene);
-            sw.Close();
-            UnserializeScene(openingScene);
-            System.Windows.Forms.MessageBox.Show("Saved.");
+            if (dlg.FileName != string.Empty)
+            {
+                sw = File.CreateText(dlg.FileName);
+                _filename = dlg.FileName;
+                serializeScene(openingScene);
+                sw.Close();
+                UnserializeScene(openingScene);
+                System.Windows.Forms.MessageBox.Show("Saved.");
+            }
         }
         public void loadScenes(string fileName)
         {
